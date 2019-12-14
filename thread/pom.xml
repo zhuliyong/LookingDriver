@@ -60,11 +60,18 @@
             <artifactId>springfox-swagger-ui</artifactId>
         </dependency>
 
-
+            <!--服务健康检查-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.vimob</groupId>
+            <artifactId>common</artifactId>
+            <version>${sys.version}</version>
+        </dependency>
+
 
 
     </dependencies>
