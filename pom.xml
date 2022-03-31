@@ -30,7 +30,7 @@
         <dom4j.version>2.1.1</dom4j.version>
         <commons-codec.version>1.11</commons-codec.version>
         <lombok.version>1.18.2</lombok.version>
-        <web.version>2.0.7.RELEASE</web.version>
+        <web.version>2.5.12</web.version>
         <mybatis.version>2.0.1</mybatis.version>
         <mysql.version>5.1.47</mysql.version>
 
